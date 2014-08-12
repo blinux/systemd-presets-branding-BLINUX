@@ -1,0 +1,4 @@
+enable acpid.service
+enable cron.service
+enable purge-kernels.service
+enable wpa.service
