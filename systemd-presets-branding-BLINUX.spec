@@ -25,7 +25,7 @@
 
 Name:           systemd-presets-branding-BLINUX
 Version:        2.0
-Release:        1
+Release:        2
 Summary:        Provides systemd-presets branding
 Group:		System/Base
 License:        BSD-2-Clause
