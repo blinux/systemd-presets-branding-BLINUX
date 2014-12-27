@@ -25,7 +25,7 @@
 
 Name:           systemd-presets-branding-BLINUX
 Version:        2.0
-Release:        0
+Release:        2
 Summary:        Provides systemd-presets branding
 Group:		System/Base
 License:        BSD-2-Clause
@@ -42,6 +42,7 @@ Conflicts:      otherproviders(systemd-presets-branding)
 
 Url:            https://www.blinux.fr
 Packager:       Emmanuel Vadot <elbarto@bocal.org>
+Vendor:		Blinux
 
 %description
 BLINUX branding base package
